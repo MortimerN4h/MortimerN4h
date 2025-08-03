@@ -9,11 +9,11 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Cybersecurity</p>
+<p align="left">📚 I'm currently studying Cybersecurity at University of Information Technology (VNUHCM-UIT)</p>
 
 ###
 
-<p align="left">🔭 I'm passionate about the field of defense and aspire to become a SOC Analyst</p>
+<p align="left">🔭 I'm passionate about automation, cloud infrastructure, and networking, and I aspire to become a DevOps Engineer</p>
 
 ###
 
